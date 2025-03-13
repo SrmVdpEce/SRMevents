@@ -1,0 +1,6 @@
+title: "SRM ECE VDP"
+description: "A site for ICNGEI and other conferences"
+url: "https://srmecevdp.com"
+baseurl: ""  # Leave it empty unless hosting in a subdirectory
+permalink: /:title/  # This removes the .html extension from URLs
+theme: jekyll-theme-minimal  # Replace with your chosen theme
